@@ -97,6 +97,8 @@ emotion-classification-app/
 ├── test.py
 └── README.md
 ```
+## Working live link
+(https://emotionclassificationmodel-dvwfazic4z33f3t7hkzrjt.streamlit.app/)
 
 ## 💡 Future Improvements
 
